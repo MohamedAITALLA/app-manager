@@ -1,0 +1,16 @@
+{
+  "mintegral": {
+    "banner": {
+      "placement_id": "1010694",
+      "unit_id": "2677210"
+    },
+    "interstitial": {
+      "placement_id": "290653",
+      "unit_id": "462374"
+    },
+    "native": {
+      "placement_id": "290656",
+      "unit_id": "462377"
+    }
+  }
+}
