@@ -2,7 +2,7 @@
   "app_control": {
     "show_data": "true",
     "show_ads": "true",
-    "show_category": "true",
+    "show_category": "false",
     "use_mintegral": "true",
     "use_admob": "false",
     "use_unity": "false"
