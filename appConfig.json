@@ -169,6 +169,10 @@
       "native": {
         "placement_id": "290656",
         "unit_id": "462377"
+      },
+      "reward": {
+        "placement_id": "290651",
+        "unit_id": "462372"
       }
     }
   }
