@@ -1,9 +1,9 @@
 {
   "app_control": {
-    "show_data": "false",
-    "show_ads": "false",
-    "show_category": "false",
-    "use_mintegral": "false",
+    "show_data": "true",
+    "show_ads": "true",
+    "show_category": "true",
+    "use_mintegral": "true",
     "use_admob": "false",
     "use_unity": "false"
   },
@@ -149,7 +149,10 @@
         "name": "Rainy Days",
         "keywords": "rainy days"
       }
-    ]
+    ],
+    "rate":"",
+    "share":"",
+    "privacy_policy":""
   },
   "ads_manager": {
     "mintegral": {
