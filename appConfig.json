@@ -2,8 +2,8 @@
   "app_control": {
     "show_data": "true",
     "show_ads": "true",
-    "show_category": "false",
-    "use_mintegral": "true",
+    "show_category": "true",
+    "use_mintegral": "false",
     "use_admob": "false",
     "use_unity": "false"
   },
@@ -152,7 +152,7 @@
     ],
     "rate":"",
     "share":"",
-    "privacy_policy":""
+    "privacy_policy":"https://www.freeprivacypolicy.com/live/e614e245-1f69-4b0d-b2f4-8e27c660427a"
   },
   "ads_manager": {
     "mintegral": {
